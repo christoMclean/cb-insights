@@ -1,0 +1,8 @@
+{
+    "useProxy": false,
+    "maxSearchDepth": 10,
+    "proxy": {
+        "host": "",
+        "port": ""
+    }
+}
