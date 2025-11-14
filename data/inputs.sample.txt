@@ -1,0 +1,4 @@
+Example company query list.
+Apple
+Google
+Tesla
