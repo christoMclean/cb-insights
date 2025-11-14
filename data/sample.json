@@ -1,0 +1,17 @@
+{
+    "searchResults": [
+        { "companyName": "Apple Inc.", "companyId": "A1", "rank": 1 },
+        { "companyName": "Apple Seedling Co", "companyId": "A2", "rank": 2 }
+    ],
+    "companyData": {
+        "companyName": "Apple Inc.",
+        "companyId": "A1",
+        "description": "A technology company creating hardware and software.",
+        "industry": "Technology",
+        "similarCompanies": ["Google", "Samsung", "Microsoft"]
+    },
+    "insights": [
+        { "title": "Market Position", "content": "Leader in consumer electronics." },
+        { "title": "Growth", "content": "Strong growth expected in services." }
+    ]
+}
